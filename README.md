@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Nimje!
 
-<!--
-**Pratik-A-N/Pratik-A-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** who loves building scalable web apps and learning new technologies. My toolkit includes **FastAPI**, **Django**, **Langgraph**, **React**, **Next.js**, and **.NET**. I thrive on solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Top Skills
+
+- **Backend:** FastAPI, Django, .NET
+- **Frontend:** React, Next.js
+- **AI/ML & Tools:** Langgraph
+- **Other:** API Design, Scalable Systems
+
+---
+
+## 🎬 Interests
+
+- 🎧 Listening to music
+- 🎥 Cinephile (movie buff!)
+
+---
+
+## 🔗 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pratik-a-nimje/)
+- [Twitter / X](https://x.com/PNimje69971)
+
+---
+
+## 💡 Motto
+
+> *the more you try to control, the more you lose the control*
+
+---
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-A-N&show_icons=true&theme=radical)
