@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratik Nimje!
 
-I'm a passionate **Software Engineer** who loves building scalable web apps and learning new technologies. My toolkit includes **FastAPI**, **Django**, **Langgraph**, **React**, **Next.js**, and **.NET**. I thrive on solving real-world problems through code.
+I'm a passionate **Software Engineer** who loves building scalable web apps and learning new technologies. My toolkit includes **FastAPI**, **Django**, **LangGraph**, **React**, **Next.js**, and **.NET**. I thrive on solving real-world problems through code.
 
 ---
 
