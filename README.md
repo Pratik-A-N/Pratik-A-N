@@ -35,7 +35,7 @@ Multi-agent code review system built with LangGraph's parallel execution — ana
 
 ## 📫 Reach Out
 
-[LinkedIn](https://www.linkedin.com/in/pratik-a-nimje/) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/pratik-a-nimje/) · [Email](mailto:pratiknimje06@gmail.com)
 
 ---
 
