@@ -1,36 +1,42 @@
-# 👋 Hi, I'm Pratik Nimje!
+# Pratik Nimje
 
-I'm a passionate **Software Engineer** who loves building scalable web apps and learning new technologies. My toolkit includes **FastAPI**, **Django**, **LangGraph**, **React**, **Next.js**, and **.NET**. I thrive on solving real-world problems through code.
+**Full Stack AI Engineer** | IIT Bombay '24 | Mumbai, India
 
----
-
-## 🚀 Top Skills
-
-- **Backend:** FastAPI, Django, .NET
-- **Frontend:** React, Next.js
-- **AI/ML & Tools:** Langgraph
-- **Other:** API Design, Scalable Systems
+I build production AI systems — agentic workflows, RAG pipelines, and LLM-powered applications. Currently shipping financial reporting tools at House of Code, focused on agentic architectures using LangGraph and FastAPI.
 
 ---
 
-## 🎬 Interests
+## 🛠 Stack
 
-- 🎧 Listening to music
-- 🎥 Cinephile (movie buff!)
-
----
-
-## 🔗 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/pratik-a-nimje/)
-- [Twitter / X](https://x.com/PNimje69971)
+**AI/ML:** LangGraph · LangChain · CrewAI · RAG · Prompt Engineering · LLM Evals
+**Backend:** Python · FastAPI · Django · Node.js
+**Frontend:** React · Next.js · TailwindCSS
+**Infra:** Docker · PostgreSQL · Redis · GCP · Render
 
 ---
 
-## 💡 Motto
+## 🚀 Featured Project
 
-> *the more you try to control, the more you lose the control*
+### [Code Review Agent](https://github.com/Pratik-A-N/Code-Review-Agent)
+Multi-agent code review system built with LangGraph's parallel execution — analyzes pull requests across **Security, Logic, and Style** dimensions concurrently, delivering ~3x latency improvement over sequential approaches.
+
+**Stack:** LangGraph (Send API) · FastAPI · SSE Streaming · React · Gemini + Groq (provider-agnostic LLM layer)
+**Live demo:** [code-review-agent-ui.onrender.com](https://code-review-agent-ui.onrender.com)
 
 ---
 
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-A-N&show_icons=true&theme=radical)
+## 💼 What I'm Working On
+
+- Production agentic systems with parallel execution patterns
+- Token optimization and cost reduction in multi-agent pipelines
+- LLM evaluation harnesses and quality metrics for RAG systems
+
+---
+
+## 📫 Reach Out
+
+[LinkedIn](https://www.linkedin.com/in/pratik-a-nimje/) · [Email](mailto:your-email@example.com)
+
+---
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik-A-N&show_icons=true&theme=default&hide_border=true)
